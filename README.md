@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Analyse des Ventes
 
 Ce projet présente une analyse de données des ventes d'un e-commerce fictif. Il montre comment utiliser Python pour nettoyer et analyser des données, ainsi que pour créer des visualisations.
